@@ -28,7 +28,7 @@ const projectItems = [
   },
   {
     title: "How to contribute",
-    url: "https://github.com/foss-community"
+    url: "https://docs.fosscu.org/"
   },
   {
     title: "🧙‍♂️Wand 🪄",
